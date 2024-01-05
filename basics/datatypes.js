@@ -7,3 +7,6 @@ let weather = null //null is used to when there is no value in that variable
  
 console.log(typeof "sidd"); //console.log(typeof "") -->> it is used to check the datatype of any.
 
+
+
+
